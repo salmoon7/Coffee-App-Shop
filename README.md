@@ -38,6 +38,20 @@ Home screen where various coffee can be choosen according to category
 Empty cart screen using Lottie animatiom
 ![Empty Cart Screen](https://github.com/salmoon7/Coffee-App-Shop/blob/main/Screenshot_20231029-010410.png) 
 
+Cart Description Screen 
+![Cart Description](https://github.com/salmoon7/Coffee-App-Shop/blob/main/Screenshot_20231029-010442.png)
+
+Add to Cart with Description
+![Add to cart](https://github.com/salmoon7/Coffee-App-Shop/blob/main/Screenshot_20231029-010456.png)
+
+OrderHistory Screen
+![History](https://github.com/salmoon7/Coffee-App-Shop/blob/main/Screenshot_20231029-010533.png)
+
+
+
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
