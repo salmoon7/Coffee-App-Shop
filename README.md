@@ -32,7 +32,7 @@ Order History: Registered users can view their order history.
 ### Screenshots
 
 Here are some screenshots of the Coffee Shop App:
-
+![Home Screen](https://github.com/salmoon7/Coffee-App-Shop/commit/143d39fcd8f4669742b96916bc1df4635984f8cd)
 
 # Getting Started
 
