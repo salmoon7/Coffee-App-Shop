@@ -1,4 +1,38 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Coffee Shop App
+This is a mobile application developed in React Native that allows users to browse and order coffee from a virtual coffee shop. This README provides an overview of the app's functionality and instructions for running it on your local machine.
+# Functionality
+User Interface (UI)
+The Coffee Shop App features an intuitive and visually appealing user interface with the following key components:
+
+Homepage: Displaying featured coffee products and categories.
+
+Product Listings: Lists coffee products with details such as name, price, and a brief description.
+
+Product Details: Provides more information about a selected coffee product, including an image, description, and options for customization.
+
+Shopping Cart: Allows users to add coffee products to their cart, adjust quantities, and proceed to checkout.
+
+Checkout: Collects user information for delivery and payment details.
+
+Order History: Displays a history of past orders for registered users.
+# Functionality
+The app supports the following features:
+
+User Registration and Authentication: Users can create accounts, log in, and stay authenticated.
+
+Product Browsing: Users can browse coffee products by category and view detailed product information.
+
+Shopping Cart: Users can add products to their cart and proceed to checkout.
+
+Order Placement: Users can place orders, providing delivery and payment information.
+
+Order History: Registered users can view their order history.
+
+### Screenshots
+
+Here are some screenshots of the Coffee Shop App:
+
 
 # Getting Started
 
