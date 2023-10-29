@@ -32,7 +32,11 @@ Order History: Registered users can view their order history.
 ### Screenshots
 
 Here are some screenshots of the Coffee Shop App:
+Home screen where various coffee can be choosen according to category
 ![Home Screen](https://github.com/salmoon7/Coffee-App-Shop/commit/143d39fcd8f4669742b96916bc1df4635984f8cd)
+
+Empty cart screen using Lottie animatiom
+![Empty Cart Screen](https://github.com/salmoon7/Coffee-App-Shop/blob/main/Screenshot_20231029-010410.png) 
 
 # Getting Started
 
